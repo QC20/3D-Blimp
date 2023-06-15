@@ -2,7 +2,7 @@
 A Python script generating 3D Blimp-looking figure
 
 # Blimp-Like 3D Figure Generation with Python Script
-This project showcases the generation of a visually captivating blimp-like 3D figure using a Python script. Rather than relying on traditional computer-aided design (CAD) software, the figure is constructed entirely through code, providing a novel and challenging approach to 3D modeling.
+This project showcases the generation of a visually captivating blimp-like 3D figure using a Python script. Rather than relying on traditional computer-aided design (CAD) software, the figure is constructed entirely through code, providing a novel and challenging approach to 3D modeling. The code snippet contains a line that enables the stl file to save on the desktop of a Macbook. Enjoy!
 
 ## Introduction to Gömböc
 The initial motivation behind this endeavor was to create a Gömböc. The Gömböc is a fascinating mathematical object with intriguing properties. Named after the Hungarian word for "sphere," a Gömböc is a convex three-dimensional object that exhibits the peculiar characteristic of having only one stable and one unstable equilibrium point. This property makes it return to its equilibrium position, no matter how it is placed, which is a remarkable feature.

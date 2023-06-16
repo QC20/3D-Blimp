@@ -1,20 +1,14 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 import os
 import numpy as np
 import trimesh
 
 def create_gomboc():
     # Define the parameters of the Gömböc shape
-    radius = 1.0  # Radius of the Gömböc
-    height = 2.0  # Height of the Gömböc
+    radius = 2.0  # Radius of the Gömböc
+    height = 8.0  # Height of the Gömböc
 
     # Create the Gömböc mesh
-    resolution = 30  # Number of divisions along the azimuthal and vertical directions
+    resolution = 15  # Number of divisions along the azimuthal and vertical directions
     azim_steps = resolution * 2
     vert_steps = resolution
     azimuths = np.linspace(0, 2 * np.pi, azim_steps)
@@ -54,10 +48,3 @@ def create_gomboc():
 
 # Call the function to create and save the Gömböc on the desktop
 create_gomboc()
-
-
-# In[ ]:
-
-
-
-

@@ -1,6 +1,8 @@
 # 3D-Blimp
 A Python script generating 3D Blimp-looking figure
 
+![IMG_5469](https://github.com/QC20/3D-Blimp/assets/36644388/5ad63ce9-c6bd-494e-8196-8d84bc98f641)
+
 # Blimp-Like 3D Figure Generation with Python Script
 This project showcases the generation of a visually captivating blimp-like 3D figure using a Python script. Rather than relying on traditional computer-aided design (CAD) software, the figure is constructed entirely through code, providing a novel and challenging approach to 3D modeling. The code snippet contains a line that enables the stl file to save on the desktop of a Macbook. Enjoy!
 

@@ -1,4 +1,4 @@
-# 3D-Blimp
+# 3D Blimp Model
 A Python script generating 3D Blimp-looking figure
 
 ![IMG_5469](https://github.com/QC20/3D-Blimp/assets/36644388/5ad63ce9-c6bd-494e-8196-8d84bc98f641)
